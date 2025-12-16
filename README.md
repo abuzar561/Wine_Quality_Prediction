@@ -27,3 +27,5 @@ It helps to understand how different chemical compositions affect the perceived 
 Open your terminal and install the required libraries:
 ```bash
 pip install pandas numpy scikit-learn streamlit joblib matplotlib seaborn
+
+streamlit run app.py
